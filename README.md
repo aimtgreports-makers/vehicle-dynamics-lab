@@ -1,4 +1,4 @@
-# VEHICLE Dynamics Lab
+# AIMTG-VEHICLE-Core
 
 Numerical experiments for the VEHICLE framework — a relational dynamical system defined on component-structured graphs with internal coupling constraints.
 
